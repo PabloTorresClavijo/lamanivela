@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Motion](https://img.shields.io/badge/Motion-000000?style=for-the-badge&logo=framer&logoColor=white) ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Motion](https://img.shields.io/badge/Motion-000000?style=for-the-badge&logo=framer&logoColor=white) ![Hosting](https://img.shields.io/badge/Hosting-0A66C2?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </div>
 <br>
@@ -12,27 +12,13 @@
 
 <br>
 
-<div align="center">
-
-🌐 **Web en vivo:** [lamanivela.com](https://lamanivela.com)
-
-<br>
-
----
-
-### 🎡 Vista previa
-
-![Caseta La Manivela](https://lamanivela.com/fondo-caseta.jpg)
-
-<br>
-
 ---
 
 ### 🚀 Tecnologías utilizadas
 
 | Frontend | Backend | Infraestructura |
 |:---:|:---:|:---:|
-| React 18 (Vite) | PHP 8.x (API REST) | Hostinger |
+| React 18 (Vite) | PHP 8.x (API REST) | Hosting |
 | TypeScript | **JWT Authentication** | MySQL Database |
 | Tailwind CSS v4 | Prepared Statements | Apache / .htaccess |
 
@@ -102,25 +88,4 @@
 
 ---
 
-### 📍 Ubicación de la Caseta
-
-📍 **Real de la Feria de Sevilla** <br>
-📌 Calle Curro Romero, 22 <br>
-💃 *¡Nos vemos el 13 de abril de 2027!*
-
-<br>
-
----
-
-### 📬 Contacto
-
-📧 [info@lamanivela.com](mailto:info@lamanivela.com) <br><br>
-🌐 [Sitio Web Administrativo](https://lamanivela.com)
-
-<br>
-
----
-
 <sub>Hecho con ❤️ para los socios de La Manivela 🏮</sub>
-
-</div>
