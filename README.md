@@ -1,10 +1,9 @@
-# <div align="center"> 💃 Caseta La Manivela — Portal Oficial de Socios </div>
-
 <div align="center">
+
+# 💃 Caseta La Manivela — Portal Oficial de Socios
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Motion](https://img.shields.io/badge/Motion-000000?style=for-the-badge&logo=framer&logoColor=white) ![Hosting](https://img.shields.io/badge/Hosting-0A66C2?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-</div>
 <br>
 
 > [!NOTE]
@@ -89,3 +88,5 @@
 ---
 
 <sub>Hecho con ❤️ para los socios de La Manivela 🏮</sub>
+
+</div>
